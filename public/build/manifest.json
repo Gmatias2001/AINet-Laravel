@@ -1,0 +1,29 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Dp7yN2nI.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/img/cinemagic_h.svg": {
+    "file": "assets/cinemagic_h-CeC5eW0D.svg",
+    "src": "resources/img/cinemagic_h.svg"
+  },
+  "resources/img/cinemagic_h_white.svg": {
+    "file": "assets/cinemagic_h_white-B1Pm7scT.svg",
+    "src": "resources/img/cinemagic_h_white.svg"
+  },
+  "resources/img/photos/default.png": {
+    "file": "assets/default-6CXGh6WD.png",
+    "src": "resources/img/photos/default.png"
+  },
+  "resources/img/photos/photo_example.jpeg": {
+    "file": "assets/photo_example-Dt5OaeSL.jpeg",
+    "src": "resources/img/photos/photo_example.jpeg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Bu4KoKrU.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
